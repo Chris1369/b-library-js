@@ -6,17 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Chris1369/b-library-js.git"
-  },
   "keywords": [
     "reactjs"
   ],
-  "author": "chris1369",
+  "author": "Chris Kakashi <chriscode1985@icloud.com>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Chris1369/b-library-js/issues"
-  },
   "homepage": "https://github.com/Chris1369/b-library-js#readme"
 }
