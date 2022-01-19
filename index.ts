@@ -1,4 +1,4 @@
-function helperUnderTen(num: number): string | number {
+function underTen(num: number): string | number {
   return num < 10 ? "0" + num : num;
 }
 
@@ -9,4 +9,4 @@ function truncatorText(text: string, maxLength: number = 10): string {
   return text;
 }
 
-export default { helperUnderTen, truncatorText };
+export default { underTen, truncatorText };
